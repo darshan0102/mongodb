@@ -1,4 +1,4 @@
-[
+db.product.insertMany([
   {
     id: 1,
     title: "iPhone 9",
@@ -573,4 +573,4 @@
       "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg",
     ],
   },
-];
+]);
