@@ -483,6 +483,7 @@ db.product.insertMany([
     rating: 4.08,
     stock: 131,
     brand: "Boho Decor",
+    
     category: "home-decoration",
     thumbnail: "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg",
     images: [
